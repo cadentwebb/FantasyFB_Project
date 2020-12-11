@@ -30,8 +30,6 @@ The last variable I made was a boom/bust variable to show which players have lar
 
 I started out with an overall description of the data, and then looked at a pairs plot. As expected, fantasy points correlates highly with usage, so I think that variable will be effective. Points also decrease with age, which was another interesting find. I graphed the overall distribution of fantasy points to show the right skew. I also printed some tables and summary descriptions to show the most and least advantageous teams to play againts, and the best and worst performers on average. Lastly, a heat map was created to show the correlations between the variables. It once again showed that the more a player is on the field and touches the ball, the better fantasy output they will have. The following graph shows the distribution of fantasy points, illustrating the right-skew. The tables, heatmap, and other statistics were difficult to put in here, and can be seen in the Fantays.ipynb file.
 
-![image.png](attachment:image.png)
-
 
 
 ## Modeling
